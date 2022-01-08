@@ -1,0 +1,25 @@
+.banner {
+    width: 75%;
+    height: auto;
+}
+#nav-top {
+    list-style: none;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+#nav-top li {
+    display:inline;
+    margin-bottom: 9px;  
+}
+#nav-top a {
+    color: black;
+    text-decoration: none;
+}
+.head-title {
+    list-style: none;
+    text-align: center;
+    padding-bottom: 10px;
+    position:relative; 
+    top:70px;
+}
